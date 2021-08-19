@@ -13,7 +13,7 @@
   "author": "Erwin Heldy G <erwin.developer@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "bootstrap": "5.0.1"
+    "bootstrap": "^4.6.0"
   },
   "devDependencies": {
     "gulp": "4.0.2",
